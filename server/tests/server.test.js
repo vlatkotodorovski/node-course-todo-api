@@ -40,3 +40,9 @@ describe('POST /todos',()=>{
             });
     });
 });
+
+describe('GET /todos/:id',()=>{
+    it('Should return todo doc', (done)=>{
+        
+    })
+})
